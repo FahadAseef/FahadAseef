@@ -27,8 +27,8 @@ I'm a Unity Game Developer passionate about creating engaging games and interact
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Substance Painter](https://img.shields.io/badge/Substance%20Painter-FF6B00?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-FCC624?style=for-the-badge&logo=figma&logoColor=white)
+![Substance Painter](https://img.shields.io/badge/Substance%20Painter-16A34A?style=for-the-badge&logoColor=white)
 
 #
 
