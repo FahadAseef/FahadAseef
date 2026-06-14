@@ -35,7 +35,7 @@ I'm a Unity Game Developer passionate about creating engaging games and interact
 ### 📺 Featured Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Shark Isle](https://ytcards.demolab.com/?id=cwEejmE7FoA&cachebust=20260612&title=Shark+Isle&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=cwEejmE7FoA)
+[![Shark Isle](https://ytcards.demolab.com/?id=cwEejmE7FoA&cachebust=20260612&title=Shark+Isle&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=UXIYNw2tS-s)
 [![Crate Zone](https://ytcards.demolab.com/?id=j2n6iBbzGHE&cachebust=20260612&title=Crate+Zone&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=j2n6iBbzGHE)
 [![Brawlers Clash](https://ytcards.demolab.com/?id=VhmKt9nxjX0&cachebust=20260612&title=Brawlers+Clash&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=VhmKt9nxjX0)
 [![Horror Survival Game](https://ytcards.demolab.com/?id=X8JqqaK4NTE&cachebust=20260612&title=Horror+Survival+Game&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/watch?v=X8JqqaK4NTE)
